@@ -1,0 +1,11 @@
+{
+    "train_time_sec": "487.99",
+    "epochs": 20,
+    "batch_size": 128,
+    "lr": 0.001,
+    "weight_decay": 0.0001,
+    "best_val_accuracy": "89.5200",
+    "final_test_accuracy": "0.8952",
+    "macro_avg_f1": "0.8943",
+    "weighted_avg_f1": "0.8943"
+}
